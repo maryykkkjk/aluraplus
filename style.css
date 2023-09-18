@@ -1,0 +1,15 @@
+:root{
+    --branco-principal:#7ad5ff;
+    --cinza-secundario:#C0c0c0;
+    --botap-azul:#5ea0dd;
+    --cor-de-fundo:#07235e;
+}
+ 
+*{
+    margin: 0%;
+}
+
+
+body{
+    background: var(--cor-de-fundo);    
+}
